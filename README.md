@@ -1,4 +1,5 @@
 # cuddly-fiesta
-• A key-value database with a simple hashing algorithm.
-• Capable of CRUD operation.
-• Built using C++.
+<ul>
+  <li>A key-value database with a simple hashing algorithm.</li>
+  <li>Capable of CRUD operation.</li>
+</ul>
